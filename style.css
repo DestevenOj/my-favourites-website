@@ -1,0 +1,19 @@
+#header{
+    background-color: #DDDDDD;
+    padding: 30px;
+}
+.page{
+    background-color: #AAAAAA;
+    padding: 70px;
+    border: 1px solid #4CAF50;
+}
+
+.movies{
+    color: aquamarine;
+}
+.books{
+    color: green;
+}
+a {
+    color: indigo;
+}
